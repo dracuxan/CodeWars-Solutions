@@ -8,5 +8,9 @@ func (s MyString) IsUpperCase() bool {
 			return false
 		}
 	}
+
+	var l []string
+	l = append(l, "a")
+
 	return true
 }
