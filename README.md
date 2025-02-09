@@ -1,1 +1,2 @@
-# CodeWars Solutions in Golang and Python
+# CodeWars Solutions in Golang 
+
